@@ -1,0 +1,3 @@
+rootProject.name = 'ObfuscationTest'
+
+include ':app'
